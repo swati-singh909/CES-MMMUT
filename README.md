@@ -23,10 +23,8 @@ This is the official Repo for CES Web D
 <h2>Setting Project on Local System :- </h2><br>
 <ul>
 <li><h3>Fork the Repository of Project</h3></li><br>
-<img width="50%" align="center" src="fork.png"><br><br>
 ( You will see this on Top Right of Github Repository !)<br><br>
 <li><h3>Clone the Repository </h3></li><br>
-<img width="50%" align="center"  src="clone.png"><br><br>
 ( Click on the Green Code button and Copy the link  `https://github.com/........` )</h3></li><br><br>
 <li><h3>Open Git bash where you want to clone the project ( Avoid On Desktop )</h3></li>
 <li><h3>Run Command</h3></li>
