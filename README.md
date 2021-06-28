@@ -1,8 +1,7 @@
 # CES-MMMUT
-This is the official Repo for CES Web D
 ![CES-MMMUT](https://socialify.git.ci/arpit456jain/CES-MMMUT/image?description=1&forks=1&issues=1&logo=https%3A%2F%2Fraw.githubusercontent.com%2Farpit456jain%2FCES-MMMUT%2Fmaster%2Fimg%2Fces2.png&pattern=Brick%20Wall&pulls=1&stargazers=1&theme=Dark)
 <hr><br>
-<h2>Git Setup :- </h2><br>
+<h2>Git Setup :- </h2>
 <ul>
 <li><h3><a href="https://git-scm.com/downloads">Download Git</a> as per your OS. </h3></li>
 <li><h3>Install Git</h3></li>
@@ -17,9 +16,8 @@ This is the official Repo for CES Web D
 
 <li><h3>You Should see your entered name and email under `user.name` & `user.email`</h3></li>
 
-</ul><br>
+</ul>
 <hr>
-<br>
 <h2>Setting Project on Local System :- </h2><br>
 <ul>
 <li><h3>Fork the Repository of Project</h3></li><br>
@@ -34,8 +32,8 @@ This is the official Repo for CES Web D
 (In Place of link paste the link you copied)
 
 <li><h3>Project Cloned in System</h3></li>
-</ul><br>
-<hr><br>
+</ul>
+<hr>
 <h2>Creating Pull Request on Github</h2>
 <ul>
 <li><h3>Go in Pull Request Section</h3></li>
