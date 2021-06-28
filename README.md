@@ -55,12 +55,12 @@ This is the official Repo for CES Web D
 <li><h3>That's It You have Succesfully Created a Pull Request</h3></li>
 </ul>
 <hr>
-<h1 align=center> Project Maintainers 😃 </h1>
+<h1 align=center> CES Team 😃 </h1>
 <p align="center">
 
 <table>
   <tbody><tr>
-    <td align="center"><a href="https://github.com/arpit456jain"><img alt="" src="https://avatars.githubusercontent.com/JyotiKumari2" width="130px;"><br><sub><b> Arpit Jain</b></sub><br>💻 </a></td></a></td>
+    <td align="center"><a href="https://github.com/arpit456jain"><img alt="" src="https://avatars.githubusercontent.com/arpit456jain" width="130px;"><br><sub><b> Arpit Jain</b></sub><br>💻 </a></td></a></td>
   </tr>
 </tbody></table>
 Thanks go to these **Wonderful People** 👨🏻‍💻:      🚀 **Contributions** of any kind are welcome! 
