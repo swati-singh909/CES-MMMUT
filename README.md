@@ -1,6 +1,6 @@
 # CES-MMMUT
 This is the official Repo for CES Web D
-
+![CES-MMMUT](https://socialify.git.ci/arpit456jain/CES-MMMUT/image?description=1&forks=1&issues=1&logo=https%3A%2F%2Fraw.githubusercontent.com%2Farpit456jain%2FCES-MMMUT%2Fmaster%2Fimg%2Fces2.png&pattern=Brick%20Wall&pulls=1&stargazers=1&theme=Dark)
 <hr><br>
 <h2>Git Setup :- </h2><br>
 <ul>
@@ -75,3 +75,10 @@ Thanks go to these **Wonderful People** 👨🏻‍💻:      🚀 **Contributio
 	</tr>
 </table>
 
+<hr>
+
+
+
+![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)
+![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)
+![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)
