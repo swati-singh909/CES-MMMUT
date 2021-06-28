@@ -36,3 +36,22 @@ This is the official Repo for CES Web D
 <li><h3>Project Cloned in System</h3></li>
 </ul><br>
 <hr><br>
+<h2>Creating Pull Request on Github</h2>
+<ul>
+<li><h3>Go in Pull Request Section</h3></li>
+<li><h3>Create New Pull Request</h3></li>
+<li><h3>Create New Pull Request</h3></li>
+<img width="50%" align="center" src="createPR.png"><h2>Creating Pull Request on Github</h2>
+<ul>
+<li><h3>Go in Pull Request Section</h3></li>
+<img width="50%" align="center" src="pullrequest.png">
+<li><h3>Create New Pull Request</h3></li>
+<li><h3>Create New Pull Request</h3></li>
+<li><h3>Add Title,  Description & Create Pull Request</h3></li>
+<li><h3>That's It You have Succesfully Created a Pull Request</h3></li>
+</ul>
+<hr>
+<li><h3>Add Title,  Description & Create Pull Request</h3></li>
+<li><h3>That's It You have Succesfully Created a Pull Request</h3></li>
+</ul>
+<hr>
