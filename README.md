@@ -73,8 +73,12 @@ Are you a Newbie in programming and want to dive deep into it?
 
 <table>
   <tbody><tr>
-    <td align="center"><a href="https://github.com/arpit456jain"><img alt="" src="https://avatars.githubusercontent.com/arpit456jain" width="100px;"><br><sub><b> Arpit Jain</b></sub><br>💻 </a></td></a></td>
-     <td align="center"><a href="https://github.com/mravtechinfo"><img alt="" src="https://avatars.githubusercontent.com/mravtechinfo" width="100px;"><br><sub><b> Anubhav Miller </b></sub><br>💻 </a></td></a></td>
+    <td align="center"><a href="https://github.com/arpit456jain"><img alt="" src="https://avatars.githubusercontent.com/arpit456jain" width="100px;">
+	<br><sub><b> Arpit Jain</b></sub><br>💻 </a></td></a></td>
+    <td align="center"><a href="https://github.com/mravtechinfo"><img alt="" src="https://avatars.githubusercontent.com/mravtechinfo" width="100px;">
+	<br><sub><b> Anubhav Miller </b></sub><br>💻 </a></td></a></td>
+      <td align="center"><a href="https://github.com/https://github.com/rupal121"><img alt="" src="https://avatars.githubusercontent.com/https://github.com/rupal121" width="100px;">
+	<br><sub><b> Rupal Singh </b></sub><br>💻 </a></td></a></td>
   </tr>
 </tbody></table>
 Thanks go to these **Wonderful People** 👨🏻‍💻:      🚀 **Contributions** 
