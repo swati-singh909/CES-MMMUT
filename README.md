@@ -15,15 +15,14 @@
 `$ git config --list`
 
 <li><h3>You Should see your entered name and email under `user.name` & `user.email`</h3></li>
-
 </ul>
 <hr>
-<h2>Setting Project on Local System :- </h2><br>
+<h2>Setting Project on Local System :- </h2>
 <ul>
-<li><h3>Fork the Repository of Project</h3></li><br>
-( You will see this on Top Right of Github Repository !)<br><br>
-<li><h3>Clone the Repository </h3></li><br>
-( Click on the Green Code button and Copy the link  `https://github.com/........` )</h3></li><br><br>
+<li><h3>Fork the Repository of Project</h3></li>
+( You will see this on Top Right of Github Repository !)<br>
+<li><h3>Clone the Repository </h3></li>
+( Click on the Green Code button and Copy the link  `https://github.com/........` )</h3></li><br>
 <li><h3>Open Git bash where you want to clone the project ( Avoid On Desktop )</h3></li>
 <li><h3>Run Command</h3></li>
 
@@ -39,10 +38,8 @@
 <li><h3>Go in Pull Request Section</h3></li>
 <li><h3>Create New Pull Request</h3></li>
 <li><h3>Create New Pull Request</h3></li>
-<img width="50%" align="center" src="createPR.png"><h2>Creating Pull Request on Github</h2>
 <ul>
 <li><h3>Go in Pull Request Section</h3></li>
-<img width="50%" align="center" src="pullrequest.png">
 <li><h3>Create New Pull Request</h3></li>
 <li><h3>Create New Pull Request</h3></li>
 <li><h3>Add Title,  Description & Create Pull Request</h3></li>
@@ -61,8 +58,7 @@
     <td align="center"><a href="https://github.com/arpit456jain"><img alt="" src="https://avatars.githubusercontent.com/arpit456jain" width="130px;"><br><sub><b> Arpit Jain</b></sub><br>💻 </a></td></a></td>
   </tr>
 </tbody></table>
-Thanks go to these **Wonderful People** 👨🏻‍💻:      🚀 **Contributions** of any kind are welcome! 
-
+Thanks go to these **Wonderful People** 👨🏻‍💻:      🚀 **Contributions** 
 <table>
 	<tr>
 		 <td>
