@@ -76,3 +76,4 @@ Thanks go to these **Wonderful People** 👨🏻‍💻:      🚀 **Contributio
 ![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)
 ![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)
 ![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)
+![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)
