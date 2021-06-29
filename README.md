@@ -81,6 +81,8 @@ Are you a Newbie in programming and want to dive deep into it?
 	<br><sub><b> Rupal Singh </b></sub><br>💻 </a></td></a></td>
 	 <td align="center"><a href="https://github.com/SaumyaSrivastava-bot"><img alt="" src="https://avatars.githubusercontent.com/SaumyaSrivastava-bot" width="100px;">
 	<br><sub><b> SaumyaSrivastava </b></sub><br>💻 </a></td></a></td>
+	 <td align="center"><a href="https://github.com/srhsoumya"><img alt="" src="https://avatars.githubusercontent.com/srhsoumya" width="100px;">
+	<br><sub><b> Soumya Gupta </b></sub><br>💻 </a></td></a></td>
   </tr>
 </tbody></table>
 Thanks go to these **Wonderful People** 👨🏻‍💻:      🚀 **Contributions** 
