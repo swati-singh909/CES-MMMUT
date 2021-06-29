@@ -41,7 +41,7 @@ Are you a Newbie in programming and want to dive deep into it?
 ( You will see this on Top Right of Github Repository !)<br>
 <li><h3>Clone the Repository </h3></li>
 ( Click on the Green Code button and Copy the link  `https://github.com/........` )</h3></li><br>
-<li><h3>Open Git bash where you want to clone the project ( Avoid On Desktop )</h3></li>
+<li><h3>Open Git bash where you want to clone the project </h3></li>
 <li><h3>Run Command</h3></li>
 
 `git clone link`
@@ -49,6 +49,15 @@ Are you a Newbie in programming and want to dive deep into it?
 (In Place of link paste the link you copied)
 
 <li><h3>Project Cloned in System</h3></li>
+<li><h3>Make Required changes on a new branch and then commit your chnages by </h3></li>
+
+
+`$ git git -A `
+
+`$ git git addd -a -m "message" `
+
+`$ git push origin branchname `
+
 </ul>
 <hr>
 <h2>Creating Pull Request on Github</h2>
