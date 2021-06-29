@@ -90,7 +90,7 @@ Thanks go to these **Wonderful People** 👨🏻‍💻:      🚀 **Contributio
 	<tr>
 		 <td>
   <a href="https://github.com/arpit456jain/CES-MMMUT/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=arpit456jain/CES-mmmut" />
+  <img src="https://contrib.rocks/image?repo=arpit456jain/ces-mmmut" />
   </a>
 		</td>
 	</tr>
