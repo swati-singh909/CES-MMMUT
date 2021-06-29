@@ -1,6 +1,6 @@
 1 [Arpit Jain](https://github.com/arpit456jain) <br>
 2 [Anubhav Miller](https://github.com/mravtechinfo) <br>
-3 []() <br>
+3 [Rupal Singh](https://github.com/rupal121) <br>
 4 []() <br>
 5 []() <br>
 6 []() <br>
