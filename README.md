@@ -1,6 +1,24 @@
 # CES-MMMUT
 ![CES-MMMUT](https://socialify.git.ci/arpit456jain/CES-MMMUT/image?description=1&forks=1&issues=1&logo=https%3A%2F%2Fraw.githubusercontent.com%2Farpit456jain%2FCES-MMMUT%2Fmaster%2Fimg%2Fces2.png&pattern=Brick%20Wall&pulls=1&stargazers=1&theme=Dark)
+  [![Number of Contributors](https://img.shields.io/github/contributors/arpit456jain/CES-MMMUT)](https://github.com/arpit456jain/CES-MMMUT/graphs/contributors)
+  [![Issues opened](https://img.shields.io/github/issues/arpit456jain/CES-MMMUT)](https://github.com/arpit456jain/CES-MMMUT/issues)
+  [![Issues closed](https://img.shields.io/github/issues-closed/arpit456jain/CES-MMMUT)](https://github.com/arpit456jain/CES-MMMUT/issues)
+  [![PRs open](https://img.shields.io/github/issues-pr/arpit456jain/CES-MMMUT)](https://github.com/arpit456jain/CES-MMMUT/pulls)
+  [![PRs closed](https://img.shields.io/github/issues-pr-closed/arpit456jain/CES-MMMUT)](https://github.com/arpit456jain/CES-MMMUT/pulls)
+  ![Repo size](https://img.shields.io/github/repo-size/arpit456jain/CES-MMMUT)
+  
+  ### 💻 Tech Stack
+
+PixelVibe uses a number of open source projects to work properly:
+### Front-End:
+<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>  <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
+<img alt="BootStrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/> 
+
 <hr><br>
+Are you a Newbie in programming and want to dive deep into it?
+
+<p align="center"><img src="https://media.giphy.com/media/l4q83E0RjRSGLXBLO/giphy.gif" width = 40%></p>
+<br>
 <h2>Git Setup :- </h2>
 <ul>
 <li><h3><a href="https://git-scm.com/downloads">Download Git</a> as per your OS. </h3></li>
@@ -71,9 +89,13 @@ Thanks go to these **Wonderful People** 👨🏻‍💻:      🚀 **Contributio
 
 <hr>
 
+## 📘&nbsp; License
 
+The CES-MMMUT is released under the under terms of the [MIT License](LICENSE).
 
 ![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)
 ![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)
 ![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)
 ![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)
+
+<h1 align=center>Happy Coding 👨‍💻 </h1>
