@@ -89,7 +89,9 @@ Are you a Newbie in programming and want to dive deep into it?
   </tr>
 </tbody></table>
 <br>
+
 ### Credit goes to these people:✨
+
 <table>
 	<tr>
 		 <td>
