@@ -88,7 +88,8 @@ Are you a Newbie in programming and want to dive deep into it?
 	<br><sub><b> Siddhartha Pandey</b></sub><br>💻 </a></td></a></td>
   </tr>
 </tbody></table>
-Thanks go to these **Wonderful People** 👨🏻‍💻:      🚀 **Contributions** 
+<br>
+### Credit goes to these people:✨
 <table>
 	<tr>
 		 <td>
